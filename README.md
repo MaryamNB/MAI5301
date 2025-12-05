@@ -41,18 +41,42 @@ We will read recent papers from top venues including ACL, EMNLP, NAACL, ICML, Ne
 
 *This is an evolving list and subject to changes due to the rapid pace of LLM developments.*
 
-| Date | Topics/Readings | Presenter | Summary | Reviewer |
-| :---- | :---- | :---- | :---- | :---- |
-| Week 1 | **Introduction to Language Models and Transformers** | Dr. Clarke |  |  |
-|  | [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required) |  |  |  |
-|  | [Attention is All You Need](https://arxiv.org/abs/1706.03762) (Required) |  |  |  |
-|  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |  |  |  |
-| Week 2 | **Fundamentals of Transformers and Research Paper Reading** | Dr. Clarke |  |  |
-|  | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (Required) |  |  |  |
-|  | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required) |  |  |  |
-|  | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) (Required) |  |  |  |
+| Date | Topics/Readings | Presenter |
+| :---- | :---- | :---- |
+| Week 1 | **Introduction to Language Models and Transformers** | Dr. Clarke |
+|  | [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required) |  |
+|  | [Attention is All You Need](https://arxiv.org/abs/1706.03762) (Required) |  |
+|  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |  |
+| Week 2 | **Fundamentals of Transformers and Research Paper Reading** | Dr. Clarke |
+|  | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required) |  |
+|  | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) (Required) |  |
+|  | **Pre-training & Scaling** |  |
+| Week 3 (Tue) | [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) (Required) | Daryl Nelson |
+|  | [Training Compute-Optimal Large Language Models (Chinchilla)](https://arxiv.org/abs/2203.15556) (Required) |  |
+| Week 3 (Thu) | [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682) (Required) | Hilton Sarius |
+|  | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (Required) |  |
+| Week 4 (Tue) | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) (Required) | Maryam Bacchus |
+|  | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://arxiv.org/abs/2104.04473) (Required) |  |
+| Week 4 (Thu) | [Dolma: An Open Corpus of Three Trillion Tokens for LLM Pretraining Research](https://arxiv.org/abs/2402.00159) (Required) | Feliciann Elliot |
+|  | [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://arxiv.org/abs/2101.00027) (Required) |  |
+|  | **Model Architectures** |  |
+| Week 5-6 | *Paper Pool (students select 2 papers each):* |  |
+|  | **Mixture-of-Experts:** |  |
+|  | [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961) |  |
+|  | [Mixtral of Experts](https://arxiv.org/abs/2401.04088) |  |
+|  | [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/abs/2401.06066) |  |
+|  | **Efficient Attention:** |  |
+|  | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) |  |
+|  | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) |  |
+|  | [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) |  |
+|  | [Fast Transformer Decoding: One Write-Head is All You Need (Multi-Query Attention)](https://arxiv.org/abs/1911.02150) |  |
+|  | [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/abs/2305.13245) |  |
+|  | **Position Encodings:** |  |
+|  | [RoFormer: Enhanced Transformer with Rotary Position Embedding (RoPE)](https://arxiv.org/abs/2104.09864) |  |
+|  | [Train Short, Test Long: Attention with Linear Biases (ALiBi)](https://arxiv.org/abs/2108.12409) |  |
+|  | *Students may propose alternative papers with instructor approval.* |  |
 
-*Weeks 3-15 will feature student-led presentations and will be scheduled based on paper selections and course progress.*
+*Weeks 7-15 will continue with student-led presentations on additional topics.*
 
 ## Policies
 
