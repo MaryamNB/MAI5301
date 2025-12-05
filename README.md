@@ -11,7 +11,9 @@
 
 | Member | Role | Office Hours |
 | :------ | :--- | :----------- |
-| Dr. Christopher Clarke | Faculty | **By appointments only** |
+| Dr. Christopher Clarke | Faculty | [**Book Appointment**](https://calendar.app.google/qXCTEfyjZ2utKQDg8) |
+
+📌 **Presentation Review Sessions**: All students must submit their presentation slides and schedule a review session with the instructor **before** presenting. Use the booking link above to schedule your review.
 
 ### Communication
 **ALL** communication regarding this course must be via GitHub Issues and email.
